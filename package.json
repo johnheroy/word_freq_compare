@@ -1,0 +1,19 @@
+{
+  "name": "word_freq_compare",
+  "version": "0.0.0",
+  "description": "compare word frequencies across two URLs to help measure relative word impact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nlp",
+    "scraping"
+  ],
+  "author": "John Heroy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.6.1",
+    "jade": "^1.3.1"
+  }
+}
